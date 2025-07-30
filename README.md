@@ -24,5 +24,4 @@ You can find more about me on my [personal website](https://andrei-radu.github.i
 ## 🚀 My GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=andrei-radu&show_icons=true&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrei-radu)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=andrei-radu&theme=dark&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
